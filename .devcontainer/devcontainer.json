@@ -1,12 +1,12 @@
 {
   "name": "Todo App with Opencode",
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "Dockerfile",
   },
   "customizations": {
     "vscode": {
-      "extensions": []
-    }
+      "extensions": [],
+    },
   },
-  "postCreateCommand": "opencode --version"
+  "postCreateCommand": "npm i -g vercel",
 }
