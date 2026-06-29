@@ -5,15 +5,15 @@ Clone and open — skills and MCP are pre-configured.
 ## Setup
 
 ```bash
-git clone https://github.com/yourname/todo-app-build-with-oc
-cd my-opencode-starter
+git clone https://github.com/thousandmiles-ai/todo-app-build-with-oc
+cd todo-app-build-with-oc
 opencode
 ```
 
 That's it. The following are ready to use:
 
 - **frontend-design** skill — opinionated UI/design guidance
-- **skill-creator** skill — turn any workflow into a reusable skill
+- **grill-m** skill — turn any un-clear requirement into a clarified one
 - **Vercel MCP** — deploy and manage Vercel projects from within Opencode
 
 
