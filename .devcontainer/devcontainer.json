@@ -8,5 +8,8 @@
       "extensions": [],
     },
   },
-  "postCreateCommand": "npm i -g vercel",
+  "postCreateCommand": "curl -fsSL https://opencode.ai/install | bash && npm i -g vercel",
+  "forwardPorts": [
+    3000
+  ]
 }
