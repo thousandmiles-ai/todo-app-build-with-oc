@@ -1,0 +1,12 @@
+{
+  "name": "Todo App with Opencode",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  },
+  "postCreateCommand": "opencode --version"
+}
