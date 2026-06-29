@@ -12,8 +12,8 @@ opencode
 
 That's it. The following are ready to use:
 
+- **grill-me** skill — turn any un-clear requirement into a clarified one
 - **frontend-design** skill — opinionated UI/design guidance
-- **grill-m** skill — turn any un-clear requirement into a clarified one
 - **Vercel MCP** — deploy and manage Vercel projects from within Opencode
 
 ## Install Opencode
@@ -57,7 +57,9 @@ todo-app-build-with-oc/
 │   └── skills/
 │       ├── frontend-design/
 │       │   └── SKILL.md
-│       └── skill-creator/
+│       └── grill-me/
+│           └── SKILL.md
+│       └── grilling/
 │           └── SKILL.md
 ├── opencode.json
 ├── AGENTS.md
