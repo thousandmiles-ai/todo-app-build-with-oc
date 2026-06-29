@@ -1,6 +1,12 @@
 # AGENTS.md
 
-You are helping students learn agentic coding with Opencode.
+This project builds a simple Todo app using agentic coding with Opencode.
 
-- Always use the `frontend-design` skill when building any UI
-- Use Vercel MCP tools for deployment tasks
+## Skills
+The following skills are available in `.agents/skills/`:
+
+- Use the `frontend-design` skill whenever building or modifying any UI
+- Use the `grill-me` skill via `/grilling` before starting any feature
+
+## Deployment
+- Use Vercel MCP tools for all deployment tasks
