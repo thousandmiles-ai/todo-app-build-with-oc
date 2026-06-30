@@ -49,6 +49,12 @@ If you prefer native Windows (without WSL):
 npm i -g opencode-ai
 ```
 
+## Install Vercel
+
+Install Vercel CLI: `npm i -g vercel`
+Login to Vercel CLI: `vercel login`
+Login to MCP Vercel: `opencode mcp auth vercel`
+Test everything right: `vercel whoami`
 
 ## Structure
 ```
